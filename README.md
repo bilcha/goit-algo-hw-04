@@ -1,4 +1,4 @@
-# Sorting Algorithm Comparison
+# Sorting Algorithm Comparison in Task_1
 
 This Python script compares the performance of three sorting algorithms: **Insertion Sort**, **Merge Sort**, and Python's built-in `sorted()` function. It evaluates their efficiency on a small dataset and a larger randomly generated dataset.
 
