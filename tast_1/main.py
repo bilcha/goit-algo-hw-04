@@ -68,7 +68,6 @@ def compare_algorithms(n):
 compare_algorithms(data)
 
 print("------------------- Compare with bigger data scope -------------------")
-# compare with bigger scope
 compare_algorithms(random_datadata)
 
 
